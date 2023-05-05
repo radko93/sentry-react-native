@@ -7,6 +7,12 @@
 - Fix `event.origin` and `event.environment` on unhandled exception ([#3041](https://github.com/getsentry/sentry-react-native/pull/3041))
 - Don't pass `enableTracing` from RN to `sentry-cocoa` options ([#3042](https://github.com/getsentry/sentry-react-native/pull/3042))
 
+### Dependencies
+
+- Bump Wizard from v3.0.0 to v3.2.0 ([#2989](https://github.com/getsentry/sentry-react-native/pull/2989))
+  - [changelog](https://github.com/getsentry/sentry-wizard/blob/master/CHANGELOG.md#v320)
+  - [diff](https://github.com/getsentry/sentry-wizard/compare/v3.0.0...v3.2.0)
+
 ## 5.4.1
 
 ### Fixes
